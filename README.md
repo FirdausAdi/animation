@@ -8,15 +8,6 @@
 
 - 🤝 I’m looking for help with **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yumsha](https://github.com/yumsha)
-
-- 📝 I regularly write articles on [https://github.com/yumsha](https://github.com/yumsha)
-
-- 💬 Ask me about **JS, Dart, or something else :]**
-
-- 📫 How to reach me **muhamadrizapahlevi12@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/yumsha](https://github.com/yumsha)
 
 - ⚡ Fun fact **I can learning fast, except history.**
 
