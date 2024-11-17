@@ -1,23 +1,5 @@
-# animation
-<div style="text-align: center;">
-    <h1 style ="font-family: 'Fira Code', monospace; font-size: 40px; color: #33FF33;">
-        Welcome to my GitHub! I'm Firdaus, aka Daus
-    </h1>
-    <p style="font-size: 20px; color: #FFFFFF; animation: fadeIn 2s;">
-        Learning in Progress
-    </p>
-    <p style="font-size: 20px; color: #FFFFFF; animation: fadeIn 4s;">
-      !
-    </p>
-  </div>
-  
-  <style>
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  </style>
+<div align="center">
+  <h1>🐍 Selamat datang di profil GitHub saya! 🐍</h1>
+  <img src="https://media.giphy.com/media/3o7aD2sa9x9iU1r4H6/giphy.gif" alt="Snake Animation" width="400"/>
+  <p>Welcome to my GitHub! I'm Firdaus, aka Daus</p>
+</div>
